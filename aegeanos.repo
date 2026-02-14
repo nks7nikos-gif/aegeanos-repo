@@ -1,5 +1,5 @@
 [aegeanos]
-name=aegeanos-repo
+name=AegeanOS Repository
 baseurl=https://raw.githubusercontent.com/nks7nikos-gif/aegeanos-repo/main/RPMS/
 enabled=1
 gpgcheck=0
